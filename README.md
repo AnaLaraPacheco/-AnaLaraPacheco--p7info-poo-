@@ -1,1 +1,2 @@
-# -AnaLaraPacheco--p7info-poo-
+# typescript-poo
+Repositório para estudos da disciplinas de POO
